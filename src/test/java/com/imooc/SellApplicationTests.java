@@ -11,7 +11,7 @@ public class SellApplicationTests {
 
     @Test
     public void contextLoads() {
-        System.out.println("测试一下子GIT");
+        System.out.println("");
     }
 
 }
